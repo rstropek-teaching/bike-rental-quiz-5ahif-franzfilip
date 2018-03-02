@@ -1,0 +1,11 @@
+D:\Schule\POSE C#\5AHIF\Repositorys\bike-rental-quiz-5ahif-franzfilip\BikeRental\BikeRental\bin\Debug\netcoreapp2.0\BikeRental.deps.json
+D:\Schule\POSE C#\5AHIF\Repositorys\bike-rental-quiz-5ahif-franzfilip\BikeRental\BikeRental\bin\Debug\netcoreapp2.0\BikeRental.runtimeconfig.json
+D:\Schule\POSE C#\5AHIF\Repositorys\bike-rental-quiz-5ahif-franzfilip\BikeRental\BikeRental\bin\Debug\netcoreapp2.0\BikeRental.runtimeconfig.dev.json
+D:\Schule\POSE C#\5AHIF\Repositorys\bike-rental-quiz-5ahif-franzfilip\BikeRental\BikeRental\bin\Debug\netcoreapp2.0\BikeRental.dll
+D:\Schule\POSE C#\5AHIF\Repositorys\bike-rental-quiz-5ahif-franzfilip\BikeRental\BikeRental\bin\Debug\netcoreapp2.0\BikeRental.pdb
+D:\Schule\POSE C#\5AHIF\Repositorys\bike-rental-quiz-5ahif-franzfilip\BikeRental\BikeRental\obj\Debug\netcoreapp2.0\BikeRental.csprojResolveAssemblyReference.cache
+D:\Schule\POSE C#\5AHIF\Repositorys\bike-rental-quiz-5ahif-franzfilip\BikeRental\BikeRental\obj\Debug\netcoreapp2.0\BikeRental.csproj.CoreCompileInputs.cache
+D:\Schule\POSE C#\5AHIF\Repositorys\bike-rental-quiz-5ahif-franzfilip\BikeRental\BikeRental\obj\Debug\netcoreapp2.0\BikeRental.AssemblyInfoInputs.cache
+D:\Schule\POSE C#\5AHIF\Repositorys\bike-rental-quiz-5ahif-franzfilip\BikeRental\BikeRental\obj\Debug\netcoreapp2.0\BikeRental.AssemblyInfo.cs
+D:\Schule\POSE C#\5AHIF\Repositorys\bike-rental-quiz-5ahif-franzfilip\BikeRental\BikeRental\obj\Debug\netcoreapp2.0\BikeRental.dll
+D:\Schule\POSE C#\5AHIF\Repositorys\bike-rental-quiz-5ahif-franzfilip\BikeRental\BikeRental\obj\Debug\netcoreapp2.0\BikeRental.pdb
