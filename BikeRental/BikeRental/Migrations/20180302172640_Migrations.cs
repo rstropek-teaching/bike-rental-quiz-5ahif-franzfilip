@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace BikeRental.Migrations
 {
-    public partial class BikeRentalMigrations : Migration
+    public partial class Migrations : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -34,7 +34,7 @@ namespace BikeRental.Migrations
                 {
                     CustomerID = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
-                    Birthday = table.Column<DateTime>(nullable: false),
+                    Birthday = table.Column<DateTime>(type: "Date", nullable: false),
                     FirstName = table.Column<string>(maxLength: 50, nullable: false),
                     Gender = table.Column<int>(nullable: false),
                     HouseNumber = table.Column<string>(maxLength: 10, nullable: true),

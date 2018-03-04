@@ -15,7 +15,6 @@ namespace BikeRental.DatabaseContext
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            //optionsBuilder.UseSqlServer("Server=posecsharphomeworkserver.database.windows.net;Database=BikeRentalDB");
             optionsBuilder.UseSqlServer(
                 "Server=tcp:posecsharphomeworkserver.database.windows.net,1433;" +
                 "Initial Catalog=homeworkdatabase;" +
@@ -26,7 +25,8 @@ namespace BikeRental.DatabaseContext
                 "Encrypt=True;" +
                 "TrustServerCertificate=False;" +
                 "Connection Timeout=30;" +
-                "");
+            "");
+            
         }
     }
 }

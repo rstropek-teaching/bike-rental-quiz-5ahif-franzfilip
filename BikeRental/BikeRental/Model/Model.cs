@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -26,7 +27,7 @@ namespace BikeRental.Model
             public string LastName { get; set; }
 
             [Required]
-            [DataType(DataType.Date)]
+            [Column(TypeName = "Date")]
             public DateTime Birthday { get; set; }
 
             [Required]

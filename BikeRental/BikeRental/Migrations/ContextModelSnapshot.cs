@@ -52,7 +52,8 @@ namespace BikeRental.Migrations
                     b.Property<int>("CustomerID")
                         .ValueGeneratedOnAdd();
 
-                    b.Property<DateTime>("Birthday");
+                    b.Property<DateTime>("Birthday")
+                        .HasColumnType("Date");
 
                     b.Property<string>("FirstName")
                         .IsRequired()

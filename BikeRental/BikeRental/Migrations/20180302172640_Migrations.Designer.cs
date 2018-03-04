@@ -11,8 +11,8 @@ using System;
 namespace BikeRental.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20180302115243_BikeRentalMigrations")]
-    partial class BikeRentalMigrations
+    [Migration("20180302172640_Migrations")]
+    partial class Migrations
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -53,7 +53,8 @@ namespace BikeRental.Migrations
                     b.Property<int>("CustomerID")
                         .ValueGeneratedOnAdd();
 
-                    b.Property<DateTime>("Birthday");
+                    b.Property<DateTime>("Birthday")
+                        .HasColumnType("Date");
 
                     b.Property<string>("FirstName")
                         .IsRequired()
